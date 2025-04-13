@@ -1,11 +1,14 @@
 [
-    {
-      "question": "What is the average price of a hotel booking in Portugal?",
-      "expected_keywords": ["price", "average", "Portugal"]
-    },
-    {
-      "question": "Which country had the most cancellations?",
-      "expected_keywords": ["country", "cancellations"]
-    }
-  ]
-  
+  {
+    "question": "What is the average price of a hotel booking in Portugal?",
+    "expected_keywords": ["average", "price", "Portugal"]
+  },
+  {
+    "question": "Which country had the most cancellations?",
+    "expected_keywords": ["country", "cancellations"]
+  },
+  {
+    "question": "What is the distribution of lead time?",
+    "expected_keywords": ["lead", "time", "distribution"]
+  }
+]
