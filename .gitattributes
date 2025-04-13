@@ -1,0 +1,2 @@
+notebooks/faiss_index.idx filter=lfs diff=lfs merge=lfs -text
+data/faiss_index.idx filter=lfs diff=lfs merge=lfs -text
